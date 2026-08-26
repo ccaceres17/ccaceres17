@@ -1,11 +1,11 @@
 # Hey! I'm Camila 👋
 
-👩🏻‍💻 IT Service Desk Analyst by day, backend developer & cybersecurity student by night  
-🎓 Studying [Systems Engineering](https://github.com/ccaceres17) at CUL in Barranquilla, Colombia  
-🔧 I automate the boring stuff — turning repetitive IT tasks into Python & PowerShell scripts  
-🤖 Recently led the software side of a [robotics & IoT project](https://github.com/ccaceres17) during a research exchange in Ecuador  
-🎨 Founded [Mala Costumbre Archive](https://github.com/ccaceres17/mala-costumbre-archive), a creative-tech platform documenting Latin American artists  
-🌱 Currently diving deeper into cybersecurity, cloud infrastructure, and backend architecture  
+* IT Service Desk Analyst by day, backend developer & cybersecurity student by night  
+* Studying [Systems Engineering](https://github.com/ccaceres17) at CUL in Barranquilla, Colombia  
+* I automate the boring stuff — turning repetitive IT tasks into Python & PowerShell scripts  
+* Recently led the software side of a [robotics & IoT project](https://github.com/ccaceres17) during a research exchange in Ecuador  
+* Founded [Mala Costumbre Archive](https://github.com/ccaceres17/mala-costumbre-archive), a creative-tech platform documenting Latin American artists  
+* Currently diving deeper into cybersecurity, cloud infrastructure, and backend architecture  
 
 <div align="center">
 
